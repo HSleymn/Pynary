@@ -1,1 +1,1 @@
-A binary convertor programmed in python with a test file using pytest 
+A binary converter programmed in python with a test file using pytest 
